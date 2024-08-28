@@ -17,3 +17,10 @@
   <p>A function evaluate_model is used to assess the model's performance. It makes predictions on the validation dataset, computes a confusion matrix, and prints the accuracy score along with a detailed classification report.</p>
   
 </ul>
+
+<h1>Files</h1>
+<ul>
+  <li>DS_Project_9Models (1) (1).ipynb:</li>
+  <p>Jupyter notebook containing the entire workflow from data preparation, model creation, training, and evaluation.</p>
+</ul>
+
