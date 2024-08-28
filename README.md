@@ -17,6 +17,15 @@
   <p>A function evaluate_model is used to assess the model's performance. It makes predictions on the validation dataset, computes a confusion matrix, and prints the accuracy score along with a detailed classification report.</p>
   
 </ul>
+<h2>Requirements</h2>
+<ul>
+  <li>Python 3.x</li>
+  <li>TensorFlow</li>
+  <li>Keras</li>
+  <li>NumPy</li>
+  <li>Scikit-learn</li>
+  <li>Matplotlib</li>
+</ul>
 
 <h1>Files</h1>
 <ul>
